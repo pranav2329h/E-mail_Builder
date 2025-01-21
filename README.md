@@ -114,7 +114,3 @@ async function startDevServer() {
 Cookie blockers, either from third-party addons or built-in into the browser, can prevent WebContainer from running correctly. Check the `on('error')` event and our [docs](https://developer.stackblitz.com/docs/platform/third-party-blocker).
 
 To troubleshoot other problems, check the [Troubleshooting page](https://webcontainers.io/guides/troubleshooting) in our docs.
-
-# License
-
-Copyright 2023 StackBlitz, Inc.
